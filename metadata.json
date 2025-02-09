@@ -1,7 +1,12 @@
 {
     "name": "AntsTeam Token",
-    "description": "Token oficial de AntsTeam en la red Moonbeam con soporte multicadena y características avanzadas",
+    "description": "AntsTeam Official Token on Moonbeam Network with Multi-Chain Support and Advanced Features",
     "image": "https://raw.githubusercontent.com/labs-token/oficial-labs/refs/heads/main/Antteam.png",
+    "image_url": "https://raw.githubusercontent.com/labs-token/oficial-labs/refs/heads/main/Antteam.png",
+    "image_data": "",
+    "background_color": "",
+    "animation_url": "",
+    "youtube_url": "",
     "external_url": "https://github.com/labs-token/oficial-labs",
     "attributes": [
         {
@@ -42,6 +47,11 @@
         "creator": {
             "name": "AntsTeam",
             "url": "https://github.com/labs-token/oficial-labs"
+        },
+        "images": {
+            "thumb": "https://raw.githubusercontent.com/labs-token/oficial-labs/refs/heads/main/Antteam.png",
+            "small": "https://raw.githubusercontent.com/labs-token/oficial-labs/refs/heads/main/Antteam.png",
+            "large": "https://raw.githubusercontent.com/labs-token/oficial-labs/refs/heads/main/Antteam.png"
         }
     }
 }
