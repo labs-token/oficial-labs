@@ -1,0 +1,38 @@
+{
+    "name": "AntsTeam Token",
+    "description": "Ant Team is a Token on the Moonbeam blockchain",
+    "image": "https://raw.githubusercontent.com/labs-token/oficial-labs/refs/heads/main/Antteam.png",
+    "external_url": "https://antsteamtoken.site",
+    "attributes": [
+        {
+            "trait_type": "Token Type",
+            "value": "ERC20"
+        },
+        {
+            "trait_type": "Network",
+            "value": "Moonbeam"
+        },
+        {
+            "trait_type": "Total Supply",
+            "value": "100000000"
+        },
+        {
+            "trait_type": "Decimals",
+            "value": "18"
+        }
+    ],
+    "properties": {
+        "tokenSymbol": "CEO",
+        "category": "Cryptocurrency",
+        "isTransferable": true,
+        "isFungible": true,
+        "standard": {
+            "type": "ERC20",
+            "version": "0.8.20"
+        },
+        "creator": {
+            "name": "AntsTeam",
+            "url": "https://antsteamtoken.site"
+        }
+    }
+}
