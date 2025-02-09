@@ -22,7 +22,7 @@
         }
     ],
     "properties": {
-        "tokenSymbol": "CEO",
+        "tokenSymbol": "Ant",
         "category": "Cryptocurrency",
         "isTransferable": true,
         "isFungible": true,
