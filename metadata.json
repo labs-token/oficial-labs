@@ -1,8 +1,8 @@
 {
     "name": "AntsTeam Token",
     "description": "Token oficial de AntsTeam en la red Moonbeam con soporte multicadena y características avanzadas",
-    "image": "ipfs://[hash-de-tu-imagen]",
-    "external_url": "https://antsteamtoken.site",
+    "image": "https://raw.githubusercontent.com/labs-token/oficial-labs/main/Antteam.png",
+    "external_url": "https://github.com/labs-token/oficial-labs",
     "attributes": [
         {
             "trait_type": "Token Type",
@@ -41,7 +41,7 @@
         },
         "creator": {
             "name": "AntsTeam",
-            "url": "https://antsteamtoken.site"
+            "url": "https://github.com/labs-token/oficial-labs"
         }
     }
 }
